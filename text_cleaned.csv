@@ -1,0 +1,501 @@
+,text,label
+0,"['bolos', 'jepang', 'thailand', 'pakai', 'ragu']",positif
+1,"['ketemu', 'prim', 'ketemu', 'terang']",positif
+2,"['menghancurkan', 'dalam']",positif
+3,"['hayoyooooo', 'reputasi', 'bersedia', 'pacarku']",positif
+4,"['udah', 'suka', 'terang', 'cuma-cuma', 'ga', 'ngefangirling', 'gila']",positif
+5,"['terang', 'pacar', 'pacarku']",positif
+6,"['deh', 'namanya', 'telor', 'gulung']",positif
+7,"['makan', 'seblak']",positif
+8,"['pos', 'rambut', 'barunya']",positif
+9,"['coba', 'bondol']",positif
+10,['kangen'],positif
+11,"['berikutnya', 'perjalanan']",positif
+12,['cantik'],positif
+13,"['gws', 'ko', 'kepin']",positif
+14,"['semangat', 'astaga']",positif
+15,"['lanjutkan', 'trakteer', 'memang', 'semangat', 'mendukung', 'pencipta', 'berkarya']",positif
+16,"['dengar', 'berikan', 'terbaik', 'semangat']",positif
+17,"['bahas', 'trakteer', 'ngga', 'ayah', 'salahin', 'nyumbang', 'semangat']",positif
+18,"['deh', 'oi', 'ngehubungin', 'gaji', 'alias', 'ga', 'nyambung', 'bjir', 'aneh']",negatif
+19,"['semangat', 'ngejar', 'sasaran', 'nya']",positif
+20,"['benar', 'ngerasain', 'kadang', 'langganan', 'bernilai', 'dapetin', 'nilai', 'diharapin']",positif
+21,"['santuy', 'sayang', 'kesenjangan', 'deh']",positif
+22,"['yeayyy', 'mendukung', 'pencipta']",positif
+23,"['yuk', 'semangatin', 'biar', 'keren']",positif
+24,"['ha', 'ha', 'beneran', 'habisnya', 'tuh', 'ngemis', 'melulu']",negatif
+25,"['mantap', 'semangat']",positif
+26,"['trakteer', 'beneran', 'konten', 'konten', 'pencipta', 'kan']",positif
+27,"['gpp', 'tetep', 'semangat']",positif
+28,"['tertawa', 'terbahak-bahak', 'beneran', 'suka', 'gtu', 'gorengan', 'konten', 'konten', 'cari', 'sensasi']",negatif
+29,"['apa2', 'dukung', 'bilang', 'pengemis', 'iri']",positif
+30,"['gaji', 'ga', 'diatas', '10jtbulan', 'cuma-cuma', 'trakteer', 'beli', 'mobil', 'khas', 'sdm', 'rendah', 'ha', 'ha', 'ha']",negatif
+31,"['tergantung', 'kerangka', 'berpikir', 'kerangka', 'berpikir', 'beda', 'beda', 'sah', 'sah', 'aja', 'suka', 'berpikir']",positif
+32,"['semangatt', 'kak']",positif
+33,"['mendukung', 'pencipta', 'maju']",positif
+34,"['tenang', 'buruk', 'beda', 'mengapresiasi', 'konten', 'konten', 'pencipta']",positif
+35,"['kocak', 'deh', 'ngemis', 'melulu', 'nakal', 'nakal']",negatif
+36,"['trakteer', 'bukannya', 'pencipta']",positif
+37,"['bener', 'sungguh', 'kaya', 'kapal', 'selam', 'instagram', 'semangat', 'kakak']",positif
+38,['kyuttt'],positif
+39,"['gausah', 'ngatain', 'foma', 'fomo', 'foma', 'fomo', 'gak', 'ngikutin', 'pita', 'cuman', 'konsennya', 'kan', 'donate', 'ditujukannya', 'buka', 'donate', 'nya', 'salah', 'tujuan', 'donat']",negatif
+40,"['ohh', 'pemain', 'permainan', 'kan', 'rau', 'dunia', 'perdonate', 'tuh', 'pita', 'konten', 'konten', 'pencipta', 'cosplayer', 'donate', 'ga', 'serius', 'cepat', 'beginian']",negatif
+41,"['yoii', 'ga', 'bodoh', 'kaya', 'hakim', 'salah', 'ga', 'pita', 'kontwk', 'pencipta', 'kaya', 'mas', 'donate', 'lunya']",negatif
+42,"['pakai', 'otak', 'cibirin', '.', 'biar', 'ga', 'kemakan', 'isu']",negatif
+43,"['akun', 'akun', 'asli', 'mikir', 'dunia', 'donate', 'sok', 'serius', 'kaya', 'mas', 'donate', 'tolol', 'r7', 'udah', 't']",negatif
+44,"['lahhhh', 'gabakalan', 'ngasi', 'memek', 'bela', 'serius', 'kasi', 'petunjuk', 'kemakan', 'otak', 'pakai', 'fomo']",negatif
+45,"['skrng', 'salah', 'lihat', 'pita', 'donate', 'ga', 'lihat', 'diem', 'fomo', 'juli', 'malu', 'sendri']",negatif
+46,"['elu', 'kemakan', 'strategi', 'viralin', 'tolol', 'sungguh', 'berlari', 'ga', 'donate', 'cuman', 'juli', 'dalam', 'beli', 'mobil', 'murni', 'uang', 'hasil', 'donate', 'donate', 'a']",negatif
+47,"['pintar', 'amp']",positif
+48,"['koreksi', 'mama', 'benar']",positif
+49,"['mobil', 'buru', 'pembayaran']",negatif
+50,"['hai', 'mama', 'suka', 'mobil']",positif
+51,"['yahhh', 'apus', 'lawak', 'cik']",negatif
+52,"['trakteer', 'cuy', 'keknya', 'mekar', 'tkut', 'dikatain', 'cangkul', 'kli', 'bruakaka']",negatif
+53,"['alhamdulillah', 'miskin', 'gapernah', 'ngemis', 'beli', 'apa2', 'kerja', 'keras', 'apa-apa', 'enak', 'dr', 'donasi', 'orang2']",negatif
+54,"['uang', 'laundering', 'nyucinya', 'beda']",negatif
+55,"['udah', 'kepalang', 'tanggung', 'komediin', 'biar', 'bias', 'ehh', 'kesalahan', 'ceroboh']",negatif
+56,"['keren', 'sungguh']",positif
+57,"['lihat', 'vidionya', 'parah', 'sungguh', 'tanah', 'indonesia', 'ga', 'presiden']",negatif
+58,"['serem', 'die', 'hardnya', 'galak2', 'sungguh']",negatif
+59,"['kocak', 'kaya', 'kaya', 'pik', 'kawasan', 'ekonomi', 'presiden', 'kaya', '1', 'ras']",negatif
+60,"['ga', 'malu']",negatif
+61,"['ga', 'bantu', 'barca', 'beli', 'haaland']",negatif
+62,['gila'],negatif
+63,"['rakyat', 'komentar', 'dsni', 'harfiah', 'rakyat', 'menutup', 'berpikiran', 'trakteer', 'tuh', 'sejenis', 'saweriasociabuzz', 'donasi2', 'tuh', 'bentuk', 'mendukung', 'pencipta', 'jatuhny', 'diblg', 'ngemis', 'kan', 'g', 'dipaksa']",positif
+64,"['kemaluan', 'kan', 'gak', 'dng']",negatif
+65,['kaya'],negatif
+66,"['pppp', 'informasi', 'ngemis']",negatif
+67,"['besok', 'zakat', 'gak']",negatif
+68,"['titit', 'ngentot', 'ngentot', 'memek', 'dasar', 'tititl']",negatif
+69,"['beli', 'foto', 'tertawa']",negatif
+70,"['berikutnya', 'bantu', 'lunasin', 'utang', 'negara']",negatif
+71,"['oke', 'gasi', 'anjing']",negatif
+72,['bodoh'],negatif
+73,"['awowkowkwok', 'hasil', 'ngemis', 'on', 'line']",negatif
+74,"['hha', 'foto', '18', 'darimana', 'kocak', 'lagian', 'ribet', 'nurusin', 'dr', 'kemaren2', 'bersihin', 'tuh', 'hati', 'kotor', 'dendam', 'kayak', 'rugiin']",negatif
+75,"['jualan', 'foto', '18']",negatif
+76,"['yaelah', 'itukan', 'platform', 'menjual', 'kocak', 'jualan', 'jual', 'eksklusif', 'selfie', 'konten', 'konten', 'eksklusif', 'bayar', 'kayak', 'langganan', 'berbayar', 'g']",negatif
+77,"['udah', 'selesai', 'nyumbang', 'budak', 'perusahaan']",negatif
+78,"['diakan', 'sengaja', 'ngejual', 'dikomersilkan', 'jatuhnya', 'ewww']",negatif
+79,"['nyalahin', 'otak', 'kotor', 'kawan', 'komen', 'pos', 'pakaian', 'tertutup', 'kayak', 'astronot', 'orgnya', 'gak', 'benar', 'ttp', 'kesempatan', 'kena', 'seksual', 'harrashment', 'ckc']",positif
+80,"['serius', 'beneran', 'dibego2in', 'beli', 'helikopter', 'kerja', 'ngemis']",negatif
+81,['kontol'],negatif
+82,['keren'],negatif
+83,"['mental', 'pengemis', 'gini', 'deh']",negatif
+84,"['berikutnya', 'donasi', 'adain', 'membersihkan', 'pembersihan']",negatif
+85,"['bjir', 'segitunya']",negatif
+86,"['apapun', 'tuh', 'beneran', 'bodoh', 'alami', 'kebanyakan', 'masyarakat', 'tuh']",negatif
+87,"['buset', 'deh', 'beli', 'mobil', 'emanya', 'sumbangan']",negatif
+88,"['beliin', 'mama', 'mobil', 'hasil', 'ngemis', 'kak']",negatif
+89,"['woy', 'gila', 'susah', 'makan', 'ngemis', 'beli', 'seluler', 'meletakkan', 'milikmu', 'otak', 'contoh']",negatif
+90,"['kerja', 'keras', 'susah', 'dapetin', 'uang', 'ortunya', 'sakit', 'donasi', 'hedonisme', 'anjj', 'silakan', 'mata', 'terbuka']",negatif
+91,"['bilang', 'netizen', 'indo', 'sdm', 'rendah', 'gegara', 'mempermasalahin', 'donate', 'memperbaiki', 'tolol', 'nyumbang', 'kaya', 'beliin', 'mobil', 'palestina', 'makan', 'susah', 'sungguh', 'anak', '2', 'indonesia', 'kelurahan']",negatif
+92,"['ha', 'ha', 'pahlawan', 'kesiangan', 'bang', 'bego']",negatif
+93,"['ga', 'ngemis', 'kak', 'ngejual', 'selfie', 'eksklusif', 'nya', 'lagian', 'salah', 'kaya', 'gabakalan', 'beli']",negatif
+94,"['uang', 'menyuruh', 'miskin', 'ngomong-ngomong', 'sedakah', 'palalu', 'namanya', 'beli', 'konten', 'konten', 'eksklusif']",negatif
+95,"['nyumbang', 'kak', 'beli', 'selfie', 'eksklusif', 'nya']",negatif
+96,['ngemis'],negatif
+97,"['elah', 'k', 'pop', 'kpopan', 'memeperkaya', 'kaya', 'lagian', 'uang', 'salahnya', 'uang', 'paksaan']",negatif
+98,"['gabakal', 'donate', 'pagar', 'terik', 'terik', 'doang', 'makan', 'susah', 'gmn', 'donate', 'kurangdibawah', 'gabakal', 'memperbarui', 'beginian']",negatif
+99,"['gak', 'bodoh', 'cuman', 'aneh', 'laper', 'bantuan', 'coba', 'donasi']",negatif
+100,"['ngemis', 'dngan', 'gayaa', 'kakak']",negatif
+101,"['cerdas', 'ko', 'ga', 'terpikirkan']",positif
+102,"['semoga', 'ga', 'rungkad']",negatif
+103,"['sederhana', 'padat', 'ciiii']",positif
+104,"['menyukai', 'kerangka', 'berpikir']",positif
+105,"['pantes', 'dihujat', 'bangga', 'ngemis', 'adik', 'adik']",negatif
+106,"['ngajarin', 'mental', 'ngemis', 'indo', 'indo', 'sdm', 'maju', 'konten', 'konten', 'pencipta', 'contoh', 'benar', 'risiko', 'konten', 'konten', 'pencipta', 'klo', 'ga', 'tanggungan', 'ga', 'keluarga']",negatif
+107,"['halaman', 'trakteer', 'foto', 'selfie']",positif
+108,"['barusan', 'lihat', 'helikopter', 'kepalanya', 'kesabet', 'baling2', 'perbaikan', 'belikan', 'komputer', 'bermain', 'game']",positif
+109,"['coba', 'ntr', 'donasi', 'kesusahan', 'g', 'mungkin', 'hujat']",positif
+110,"['jalan', 'jalan', 'ngemis', 'cantik']",positif
+111,"['kebalikan', 'nya', 'ke-n', 'bikin', 'gituan', 'g', 'ngasi', 'pagar', 'hujat', 'coba', 'kaya', 'pujian', 'g', 'membedakan', 'status', 'sosial']",negatif
+112,"['nya', 'salah']",negatif
+113,"['dijadiin', 'presiden']",positif
+114,"['izin', 'livv', 'trakteer', 'adain', 'donasi', 'mendapatkan', 'uang', 'mudah', 'kayaknya', 'bantu', 'membutuhkan']",positif
+115,"['inisial', 'singgih', 'nyata', 'ngemis']",negatif
+116,"['bedakan', 'karya', 'sensasi', 'dasar']",negatif
+117,"['isi', 'trakteer', 'donate', 'cowo', 'pribadi', 'selfie', 'foto', 'foto', 'foto']",negatif
+118,"['dukung', 'netizen', 'deddy', 'corbuzier', 'tiktoker', 'kekuatan', 'memang', 'bintang', 'syndrome', 'nyeleneh']",negatif
+119,"['malu', 'ga']",negatif
+120,"['ampun', 'kayak', 'gini', 'pengen', 'artis', 'sekelas', 'sayang', 'suzy']",negatif
+121,"['dedi', 'korbuser', 'bangga']",positif
+122,"['apalah', 'pinter', 'ngehasut', 'warga', 'g', 'saluran', 'pakai', 'bilang', 'klarifikasi', 'postingan', 'g', 'komenan', 'dibatasi', 'g', 'ibunya', 'permainan', 'kata-kata', 'komenan', 'dibatasi', 'memang', 'salah', 'dibatasi', 'aneh', 'nya', 'ngebela']",negatif
+123,"['kaya', 'gtu', 'foto', 'ngemis', 'kaya', 'ekslusif', 'g', 'gtu', 'loh']",positif
+124,"['jualan', 'ngemis', 'ngomong-ngomong']",positif
+125,"['menangiss', 'ajalah']",negatif
+126,['bangcattttt'],negatif
+127,"['nyebelin', 'asli']",negatif
+128,"['ngelunjak', 'njir']",negatif
+129,['gila'],negatif
+130,"['benar', 'masyarakat', 'aneh', 'pakai', 'donate']",negatif
+131,"['cantik', 'pinter', 'cerdass', 'inii', 'cantik', 'pinterr', 'bikin', 'bikin', 'sekolahan', 'gratis', 'plosok', 'daerah']",positif
+132,"['klo', 'msi', 'indon', 'gx', 'bebas', 'boss', 'minimal', 'barteran', 'bu', 'mocindo']",negatif
+133,['bantu'],positif
+134,"['kaum', 'kebawah', 'ga']",negatif
+135,"['jual', 'apasi', 'vy', 'smpe', 'ngemis', 'ngemis', 'gini']",negatif
+136,"['jujur', 'sungguh', 'bang', 'negara', 'berprestasi', 'talenta', 'kalah', 'bocah', 'kosong', 'kosong', 'berlari', 'modal', 'cakep', 'seksi', 'bicara', 'kalimat', 'anjinggg', 'titit', 'b']",negatif
+137,"['kak', 'besok', 'bikin', 'lunasin', 'utang', 'negara', 'kak']",positif
+138,"['biar', 'netizen', 'gak', 'sia2']",positif
+139,"['lucu', 'lucuan', 'ngemis']",negatif
+140,['keren'],positif
+141,"['anjing', 'kaya', 'fakir', 'miskin', 'aslinya']",negatif
+142,"['dasar', 'pengemis', 'miskin', 'jieanya', 'kaya', 'kaya', 'berjiwa', 'miskin', 'gapunya', 'malu']",negatif
+143,"['kaya', 'cantik', 'terkenal']",positif
+144,"['ngemis', 'elit']",negatif
+145,"['besok', 'membuka', 'donate', 'umroh', 'nyumbang', 'gak']",positif
+146,"['doain', 'ditengah2', 'hujatanyou', 'memiliki', 'a', 'jantung', 'cinta']",positif
+147,"['duit', 'ngemis']",negatif
+148,"['gila', 'sungguh', 'deh']",negatif
+149,"['minimal', 'planga', 'plongo', 'malu']",negatif
+150,"['lancar', 'nyumbangin', 'kan', 'maksutnya']",negatif
+151,"['cari', 'perhatian']",negatif
+152,"['ngemis', 'euy']",negatif
+153,"['sifat', 'bawaan', 'lahir', 'gabisa', 'hilang', 'iri', 'dengki', 'mampus', 'gada', 'dirugikan', 'melanggar', 'hukum', 'silahkan', 'periksa', 'otak', 'ketuker', 'selangkangan', 'kesangean', 'pikirannya', 'kesana', 'wow']",negatif
+154,"['keren', 'hahahahahaha']",positif
+155,"['belikan', 'hengpong']",positif
+156,"['terserah', 'dibeliin', 'ngatur']",negatif
+157,"['mksh', 'dh', 'ingetin']",positif
+158,"['dasar', 'bicara', 'karya', 'relatif', 'apaan']",negatif
+159,"['mayan', 'pemasukan', 'negara']",positif
+160,"['beda', 'kan', 'sengaja', 'dibuat', 'tautan', 'donate']",positif
+161,"['nanggung', 'sungguh', 'helikopter', 'jet', 'pribadi']",negatif
+162,"['tp', 'minta2', 'jual', 'eksklusif', 'selfie', 'trakteer', 'gak', 'maksa', 'beli', 'kayak', 'langganan', 'berbayar', 'artis2', 'platform', 'g', 'konten', 'konten', 'eksklusif', 'artis', 'bayar']",positif
+163,"['uang', 'laundry']",negatif
+164,"['sehat', 'sehat', 'deh', 'wkkwkw']",negatif
+165,['miskin'],negatif
+166,"['ngemis', 'gaya']",negatif
+167,"['rich2', 'sungguh', 'rich', 'mentalnya', 'miskin', 'cuan', 'mudah']",negatif
+168,"['del', 'oke', 'kemarin2', 'karina', 'halaman', 'mbak', 'jihyo']",positif
+169,['bodohnya'],negatif
+170,"['benar', 'berlari', 'bukannya', 'malu', 'gembar', 'gembor', 'bangga']",negatif
+171,"['foto', 'dibeli', 'gblggg']",negatif
+172,"['hadiah', 'tua', 'baiknya', 'hasil', 'kerjanya', 'hasil']",negatif
+173,"['setujuu', 'bitter', 'ngehujat', 'posisi', 'kayaknya', 'dana', 'dr', 'fansnya']",positif
+174,"['lihat', 'boss', 'ngemis', 'ngemis']",negatif
+175,"['ditunggu', 'kapal', 'maminya']",negatif
+176,"['beli', 'mobil', 'ambulans', 'bunyinya', 'kaya', 'bicara', 'sjw']",negatif
+177,"['kaya', 'mental', 'pengemis']",negatif
+178,"['abis', 'tercapai', 'beli', 'tangki', 'deh']",negatif
+179,['karya'],negatif
+180,"['web', 'trakteer', 'kirim', 'ngemis', 'gini', 'kasian', 'nyata', 'digital', 'artis', 'nyata', 'isi', 'pencipta', 'karya', 'nya', 'kalah', 'modelan', 'cewek', 'cewek', 'ngemis', 'gini']",negatif
+181,"['2', '3', 'ipk', 'gibran', 'templat', 'pendukung', 'gibran']",negatif
+182,"['woyyy', 'trakteer', 'karya']",negatif
+183,"['nyuruh', 'beli', 'ditanggepin', 'ngamuk']",positif
+184,"['jijique', 'malu']",negatif
+185,"['mba', 'yooo', 'politisi', 'modal', 'gak', 'malunya']",negatif
+186,"['a', 'a', 'kasihan', 'a', 'a']",negatif
+187,"['aaa', 'kasian', 'aaa', 'kasian']",negatif
+188,"['bang', 'gak', 'donasi', 'kitabisa', 'kalo', 'sumbangan', 'kitabisa', 'belikan', 'mama', 'mobil', 'yha', 'memang', 'malu', 'jualan', 'konten', 'konten', 'trakteer', 'memang', 'fungsi', 'platformnya']",negatif
+189,"['ekonomi', 'indonesia', 'mungkin', 'sebenernya', 'ga', 'cuma-cuma', 'tolol']",negatif
+190,"['ga', 'fotonya', 'mahal', 'tergantung', 'pasar', 'minat', 'pasar', 'kan', 'pemasaran', 'dihujat', 'idol']",positif
+191,"['taktik', 'marketingnya', 'halnya', 'agensi', 'foto', 'kartu', 'diproduksi', '100', 'mahal', 'biar', 'kekuatan', 'merek', 'engga', 'buka']",positif
+192,"['gak', 'malu', 'mbak', 'anak', 'kaya', 'pengikut', 'endors', 'milih', 'ngemis', 'sial', 'mati']",negatif
+193,"['bentuk', 'pemasaran', 'beda', 'penikmatnya', 'beda', 'kaya', 'idola', 'usaha', 'gobag', 'gobag', 'outputnya', 'le']",positif
+194,"['berlari', 'berlari', 'ngasiii']",negatif
+195,"['minimal', 'malu']",negatif
+196,"['kaya', 'dermawan']",positif
+197,"['itukan', 'cuma-cuma', 'preferensi', 'produk', 'doang', 'produksi', 'pribadi', 'agensi', 'dijual', 'fisik', 'digital', 'intinya', 'lawan', 'samsung', 'bedanya', 'penikm']",positif
+198,"['menjijikkan', 'mf']",negatif
+199,"['cina', 'ngemis']",negatif
+200,"['jijik', 'ngemis', 'manipulatormau', 'mewah', 'senang', 'gaya', 'tanggung', 'kaya', 'kesia', 'abang', 'sumbangan', 'kerja', 'keras', 'siang', 'mlm']",negatif
+201,"['gak', 'malu', 'gak', 'singgih2', 'gak', 'apa2', 'bandingkan']",negatif
+202,"['beneran', 'bodoh', 'disarkasin', 'kaum2', 'umr']",negatif
+203,"['anak', 'beneran', 'goblok', 'sarkas', 'ga']",negatif
+204,"['hah', 'bangga']",negatif
+205,"['coba', 'warnain', 'perak', 'kak', 'donate']",negatif
+206,"['ga', 'malu']",negatif
+207,"['cici', 'kaya', 'raya']",negatif
+208,"['pdhl', 'jual', 'konten', 'konten', 'ngemis', 'bedain', 'ngemis', 'jualan', 'kayaknya', 'pulang', 'pergi', 'pemain', 'barca', 'gak', 'seburuk', 'pulang', 'pergi', 'k', 'pop', 'deh']",positif
+209,"['malu', 'manfaatin', 'sdm', 'indo', 'rendah']",negatif
+210,"['yaallah', 'miris', 'sungguh', 'kakak', 'ga', 'sekai', 'ga', 'ngemis']",negatif
+211,"['kan', 'x', 'emosian', 'beneran', 'heuehehe']",negatif
+212,"['ha', 'ha', 'ha', 'kebanyakan', 'makan', 'asumsi', 'negatif', 'kakak', 'reputasi', 'dianggap', 'serius']",positif
+213,"['sattttt', 'segitunya', 'a']",negatif
+214,"['suangar', 'arek', 'iki']",negatif
+215,['bakat'],negatif
+216,"['benci', 'sungguh', 'anjing']",negatif
+217,"['konteksnya', 'blok']",negatif
+218,"['2024', 'pakai', 'pagar']",negatif
+219,"['mengemis', 'gaya']",negatif
+220,"['nyinyir', 'benar', 'mah', 'koreksi', 'kalimat', 'doang', 'lagian', 'donasi', 'beneran', 'ngemis', 'bang', 'gausah', 'diperhalus', 'kalimatnya', 'anak', 'pita', 'dibilang', 'ngamen', 'pegawai', 'dibilang', 'buruh']",negatif
+221,"['besok', 'ngemis', 'lampu', 'merah', 'berani', 'gak']",negatif
+222,['bodoohhh'],negatif
+223,"['sepaling', 'duar', 'memek', 'tertawa', 'terbahak-bahak', 'saudara', 'laki-laki', 'biar', 'ga', 'suntuk2', 'nyinyir', 'krna', 'ga', 'terima', 'keadaan']",negatif
+224,"['kalimat', 'diatas', 'ga', 'kalimat', 'permainan', 'kata-kata', 'bang', '2024', 'kaget', '.', 'kaget', 'pendapat', 'netizen', 'duar', 'memek', 'tertawa', 'terbahak-bahak']",negatif
+225,"['bocil', 'boss', 'udah', 'bingung', 'diapain', 'sampe2', 'beli', 'foto', 'egois']",negatif
+226,"['sial', 'bangga', 'sungguh']",negatif
+227,"['klw', 'kerja', 'cari', 'cuman', 'biayain', 'uang', 'pengeluaran', 'pribadi', 'senang2', 'kerja', 'raksasa', 'deh', 'biar', 'ga', 'habis', 'nyinyir', 'doang', 'idup', 'udah', 'suntuk', 'tuh', 'tertawa', 'terbahak-bahak']",negatif
+228,"['livi', 'gila', 'keren', 'sungguh', 'jennie', 'kalah', 'savage', 'kayak', 'girlboss']",negatif
+229,"['bodoh', 'ngespen', 'pribadinya', 'tr', 'nyimyirin', 'pengeluaran', 'pintar', 'tertawa', 'terbahak-bahak', 'kerja', 'cari', 'deh', 'sampel', 'udah']",negatif
+230,"['g', 'langganan', 'berbayar', 'konten', 'konten', 'eksklusif', 'artis', '_', 'dihujat', 'dunia', 'beneran', 'sekocak']",positif
+231,"['benar', 'kaya', 'suka', 'menonton', 'youtube', 'bergabung', 'membershipnya', 'beli', 'pedagang', 'nya']",positif
+232,"['bodoh', 'akut', 'vvibu', 'nolep', 'e.coli', 'pakai', 'foto', 'selfie', 'cil']",negatif
+233,['babi'],negatif
+234,"['sil', 'bocil', 'bodoh', 'lepi', 'biar', 'beli', 'heli', 'mamahnya']",negatif
+235,"['bocah', 'ajg', 'alat', 'emng', 'gua', 'blg', 'pake', 'duit', 'trakter', 'kocak', 'minim', 'literasi', 'babi', 'awkoawko']",negatif
+236,"['utang', 'negara', 'coba', 'kak', 'gak', 'bayar', 'pajak', 'kesini', 'bayar', 'tuh', 'utang', 'negaranya', 'diliat', 'lihat', 'kompak', 'sungguh', 'ngebantuin', 'beli', 'mobil', 'penjualan', 'salah']",negatif
+237,"['tr', 'jualan', 'konten', 'foto', 'eksklusif', 'perbaikan', 'memperbarui', 'makan', 'medsos', 'seksi', 'dapatnya', 'menyukai', 'doang']",negatif
+238,"['kocak', 'tepatnya', 'pakai', 'masuk', 'akal', 'logika', 'gak', 'nurusin', 'gunakan', 'uangnya', 'blog', 'sungguh', 'mikir', 'pakai', 'logika', 'pikir', 'beli', 'hasil', 'trakteer', 'ck']",negatif
+239,"['gak', 'malu']",negatif
+240,"['cewek', 'stress']",negatif
+241,"['ga', 'malu', 'malunya', 'anjing']",negatif
+242,"['mantap', 'mbak', 'lipi']",positif
+243,"['utang', 'negara', 'kak', 'mohon']",negatif
+244,"['duduk', 'bola', 'klise']",negatif
+245,"['duduk', 'cmn', 'klise']",negatif
+246,"['uang', 'tunai', 'hasil', 'ngemis']",negatif
+247,"['miskinn', 'kmn', 'nichh']",negatif
+248,"['girlboss', 'kepala', 'peyang', 'mah', 'pengemis']",negatif
+249,"['tahan', 'malu', 'keren']",negatif
+250,"['malu', 'gasi', 'kak']",negatif
+251,"['mungkin', 'orkaynya', 'nanggung', 'dijabanin']",negatif
+252,"['stress', 'anjing', 'chindo', 'gajelas']",negatif
+253,"['bisa2nya', 'bangga', 'ditunggu', 'ucapan', 'terima', 'kasih', 'netizen']",negatif
+254,"['perbaikan', 'mengubah', 'jualin', 'konten', 'konten', 'porno']",negatif
+255,"['bedanya', 'foto', 'kan', 'fungsi', 'sehari', 'kan', 'target', 'pemasaran', 'masing-masing', 'bedanya', 'idola', 'targetnya']",positif
+256,['ngemis'],negatif
+257,"['3', 'lucu', 'renata', 'ngemis']",negatif
+258,"['karyanya', 'kak']",negatif
+259,"['setuju', 'tuh', 'coba', 'bantu', 'lunasin', 'utang', 'negara', 'barangkali', 'rakyat', 'dermawan']",negatif
+260,"['ngeri', 'sungguh', 'komennya', 'bilang', 'menjijikan', 'bikin', 'gituan', 'sederhana', 'mengunggah', 'mengharapkan', 'target', 'terserah', 'nyumbang', 'gamaksa']",positif
+261,"['buka', 'penggemar']",negatif
+262,"['utang', 'negara', 'tenggelam']",negatif
+263,['bner'],negatif
+264,"['ga', 'malu', 'tah']",negatif
+265,"['barat', 'berbondong2', 'buka', 'penggemar', 'bentar', 'indo', 'ga', 'laku', 'profesi', 'guru', 'dokter', 'lain-lain', 'jualan', 'foto']",negatif
+266,['dungu'],negatif
+267,"['mengemis', 'berbeda']",negatif
+268,"['bikini', 'trakteer', 'jual', 'foto', 'seksi', 'pengen', 'dikasi']",negatif
+269,"['paansi', 'ngemis']",negatif
+270,['ngelunjak'],negatif
+271,"['gapunya', 'tah']",negatif
+272,"['besok', 'ganti', 'lunasin', 'utang', 'negara']",negatif
+273,['sakjiw'],negatif
+274,"['sdm', 'rendah']",negatif
+275,"['cari', 'perhatian', 'idih']",negatif
+276,['idihh'],negatif
+277,"['sepong', 'titit', 'bang']",negatif
+278,['ngemis'],negatif
+279,['kentut'],negatif
+280,"['gozali', 'versi', 'cewek']",negatif
+281,"['jual', 'versi', 'estetika', 'kak']",negatif
+282,"['digital', 'pencipta', 'jual', 'konten', 'konten', 'ga', 'cuma-cuma', 'doang', 'salahnya', 'mengaku', 'kaya', 'mbak', 'coba', 'bilang', 'titisan', 'naga', 'ga', 'berani', 'rujak', 'mbak', 'yakali', 'ngerujak', 'buah', 'naga']",negatif
+283,"['mengemis', 'gaya']",negatif
+284,"['dikasii', 'udah', 'kaya', 'kocakk', 'mendibg', 'kasi']",negatif
+285,"['miskin', 'dipersilahkan']",negatif
+286,"['malu', 'jualan', 'bedanya', 'sm', 'eksklusif', 'instagram', 'kan', 'berbayar', 'dptin', 'konten', 'konten', 'eksklusif']",positif
+287,"['ngasi', 'fakir', 'miskin']",negatif
+288,"['ih', 'miskin', 'sungguh']",negatif
+289,"['kerja', 'ege', 'ngemis']",negatif
+290,"['membuka', 'donasi', 'cari', 'makan', 'beli', 'mobil', 'mewah', 'avanza']",negatif
+291,"['bayar', 'utang', 'indonesia']",negatif
+292,"['bagus', 'deh', 'ga', 'bertemen', 'salam', 'catheez', 'vior', 'meskipun', 'kosong', 'rajin', 'kerja', 'ga', 'ngatain', 'ngemis', 'jualan', 'foto', 'nilai', 'selfie', 'membutuhkan', 'mempekerjakan', 'a', 'profesi']",negatif
+293,"['ngerti', 'konsep', 'trakteer', 'ga', 'jualan', 'konten', 'konten', 'foto', 'tertawa', 'terbahak-bahak']",positif
+294,"['paksaan', 'membeli', 'beli', 'nyadar', 'kemampuan', 'duitnya', 'ga', 'beli', 'disini', 'pagar', 'aneh', 'beli', 'lagaknya', 'berasa', 'pagar', 'rugi', 'pagar', 'benar']",positif
+295,"['jaman', 'maju', 'ngemis', 'permainan', 'kata-kata', 'on', 'line']",negatif
+296,"['cuci', 'uang', 'momen']",negatif
+297,"['namanya', 'ngemis', 'gblk']",negatif
+298,['malu'],negatif
+299,"['orangnya', 'takut', 'tersinggung']",negatif
+300,"['arti', 'malu']",negatif
+301,"['setololl', 'itukan', 'donate']",negatif
+302,"['opinion', 'memikirkan', 'ga', 'ngemis', 'sgala', 'macemnya', 'adik', 'kan', 'trakteer', 'kan', 'fungsiny', 'menjual', 'terserah', 'jual', 'kan', 'mnurutku', 'gaad', 'memaksa', 'semacamny', 'teman-teman', 'memikirkan', 'a', 'lil', 'santai', 'keluar', 'h']",positif
+303,['istigfar'],negatif
+304,"['knapa', 'tolol']",negatif
+305,"['perbaikan', 'beijing']",negatif
+306,"['coba', 'judulnya', 'ganti', 'bayarin', 'utang', 'negara']",negatif
+307,"['aduh', 'ganti', 'pekerjaan', 'pengemis']",negatif
+308,"['ngelunasin', 'utang', 'negara']",negatif
+309,"['ngemis', 'bangga', 'bikini', 'penggemar', 'ketahuan', 'mbak', 'biar', 'duitnya', 'g', 'hasil2', 'ngemis', 'kan', 'situ', 'gadis', 'egirl', 'terkenal', 'langganan', 'situ', 'penggemar']",negatif
+310,"['lupa', 'jual', 'berasnya', 'selaga', 'mahal', 'lumayan']",negatif
+311,"['nyumbang', 'nyumbang', 'pukulan', 'rahang']",negatif
+312,"['kaya', 'gini', 'dibilang', 'ngemis', 'kepercayaan', 'apakabar', 'tik', 'tok', 'menurutku', 'sah', 'ko', 'komen', 'jelek', 'iri']",positif
+313,"['kaya', 'lahir', 'ngemis']",negatif
+314,"['kak', 'menumpaskan', 'kemiskinan', 'indonesia', 'gituuuu']",negatif
+315,"['tukang', 'e.coli', 'minimal', 'imajinasi']",negatif
+316,"['jualin', 'foto', 'eksklusif', 'sumbangan', 'beli', 'sukarela', 'paksaan']",positif
+317,"['nyumbang', 'minjem', 'mobilnya', 'kan', 'nyumbang']",negatif
+318,"['anj', 'ngeselin', 'sungguh']",negatif
+319,"['gak', 'malu']",negatif
+320,"['kek', 'ratu', 'nyumbangin', 'kaya']",negatif
+321,"['kosong', 'darimana', 'ngetololin', 'tololin', 'tuh', 'nyumbang', 'dianya', 'pinter', 'penggemar', 'setia', 'tolol', 'makan', 'mikir2', 'nyumbang', 'jelas2', 'kaya', 'dimanfaatin', 'uang', 'tunai']",negatif
+322,"['yaaaaa', 'gapunya', 'malu']",negatif
+323,"['wan', 'menang', 'titit']",negatif
+324,"['curiga', 'uang', 'laundry', 'beneran', 'nyumbang', 'nya', 'belikan', 'mobil', 'kasus', 'mungkin', 'mirip', 'donisalmanan', 'tp', 'bernyanyi', 'donatur', 'senyap']",negatif
+325,"['benar', 'penggemar', 'sm', 'idola', 'beneran', 'mirip']",negatif
+326,"['sepi', 'pekerjaan', 'ngemis']",negatif
+327,['bodoh'],negatif
+328,['ngakakkkkk'],negatif
+329,"['dihhhh', 'tolol']",negatif
+330,"['bikin', 'tutorial', 'mengemis', 'brutal', 'gini']",negatif
+331,"['ngemis', 'gaya']",negatif
+332,"['malunya', 'taroh', 'dipantat']",negatif
+333,"['foto', 'bibirnya', 'banyakun', 'nahan', 'berak']",negatif
+334,"['dihh', 'gamalu', 'ngemis', 'gini', 'nyumbang', 'permainan', 'kata-kata', 'bodoh']",negatif
+335,"['rasain', 'mengantri', 'takjil', 'deh']",negatif
+336,"['cba', 'keren', 'lakuin']",positif
+337,"['kaya', 'menjamin', 'mental', 'tetep', 'mental', 'pengemis', 'tetep', 'pengemis', 'nyumbang', 'iq', 'nya', 'jongkok', 'engga']",negatif
+338,"['belikan', 'mama', 'sempak']",negatif
+339,"['malu', 'bangga']",negatif
+340,"['nyumbang', 'bodoh', 'sumbangan', 'gatau', 'malu']",negatif
+341,"['kasih', 'opsi', 'biar', 'ga', 'mikir', 'kasian']",negatif
+342,"['duit', 'sumbangan', 'rakyat', 'kecil']",negatif
+343,"['orangbaik', 'perjuangan', 'usman', 'dikeluarganya', 'tulang', 'punggung', 'keluarga', 'menghidupi', 'empati', 'keponakannya', 'kehilangan', 'tua']",positif
+344,"['karyanya', 'kecantikan', 'hak', 'istimewa', 'nyata']",negatif
+345,"['pengemis', 'mengemis', 'gaya']",negatif
+346,"['ga', 'malu']",negatif
+347,"['goblok', 'gada', 'malu', 'malunya']",negatif
+348,"['dikasih', 'saran', 'beneran', 'diturutin']",negatif
+349,"['indikasi', 'uang', 'laundry']",negatif
+350,"['kayak', 'cewek', 'mengubah', 'miskin', 'jualan', 'foto']",negatif
+351,"['pesona', 'cewek', 'ngemis']",negatif
+352,"['pengemis', 'perilaku']",negatif
+353,"['bangga', 'ga', 'urat', 'malu']",negatif
+354,"['coba', 'habis', 'beli', 'mbappe', 'kak']",negatif
+355,"['ngemis', 'a', 'ngemis']",negatif
+356,['mnyet'],negatif
+357,"['gadis', 'baa', 'girpbos', 'pengemis', 'mah']",negatif
+358,"['gak', 'malu']",negatif
+359,"['buruh', 'cuci']",negatif
+360,"['menang', 'apanya', 'titit', 'bukannya', 'malu', 'anak']",negatif
+361,"['tolol', 'anjing', 'gak']",negatif
+362,"['setara', 'kang', 'parkir', 'indoalfa', 'dibayari', 'miskin']",negatif
+363,"['minimal', 'malu', 'tolol', 'ga', 'bakat', 'keahlian', 'ngemis']",negatif
+364,"['keren', 'sungguh']",positif
+365,"['malu', 'ngemis', 'ngemis', 'begituan', 'sksksk', 'ups', 'kan', 'malu', 'nya']",negatif
+366,"['semoga', 'bermanfaat']",positif
+367,"['sumpah', 'tolol', 'ga', 'lucu', 'anjing']",negatif
+368,"['gila', 'gilanya', 'ku', 'menjenguk']",negatif
+369,"['ngejokes', 'ngejelekin', 'renata', 'mungkin', 'ketemu', 'sehumble', 'salah', 'satunya', 'gua', 'penggemar', 'teman', 'ketemu', 'setuju']",positif
+370,"['golongan', 'manusia', 'berhak', 'menerima', 'sumbangan', 'fakir', 'miskin']",negatif
+371,"['anjir', 'mental', 'pengemis', 'oge', 'geningan', 'sakalian', 'dilampu', 'merah', 'mah']",negatif
+372,['najiss'],negatif
+373,['pengemis'],negatif
+374,"['idih', 'pengemis']",negatif
+375,"['anjing', 'orang2', 'brengsek', 'gini']",negatif
+376,"['bjirr', 'malu']",negatif
+377,"['bodoh', 'sampah', 'bodoh']",negatif
+378,"['goblok', 'gatau', 'malu']",negatif
+379,"['bawa', 'suku']",positif
+380,['titit'],negatif
+381,"['niat', 'ama', 'jilat', 'perempuan', 'amp', 'basah']",negatif
+382,"['gak', 'beli', 'pulau']",negatif
+383,"['berikutnya', 'beli', 'negara']",negatif
+384,['pengemis'],negatif
+385,['malu'],negatif
+386,"['ramai', 'sedekah', 'kaya']",negatif
+387,"['edan', 'taktik', 'yahudi']",negatif
+388,"['nanggung', 'helikopter', 'mah', 'beli', 'pulau']",negatif
+389,"['nya', 'trakteer', 'jual', 'konten', 'konten', 'nahh', 'jual', 'konten', 'konten', 'foto', 'foto', 'trakteer', 'dibeli', 'ga', 'nya', 'sihh']",positif
+390,[],negatif
+391,"['cuman', 'numpang', 'pansos', 'komika']",negatif
+392,"['bau', 'bau', 'uang', 'laundry']",negatif
+393,"['cuci', 'cuci', 'biar', 'bersih']",negatif
+394,"['baiklah', 'malu', 'tuh']",negatif
+395,"['bukannya', 'normal', 'kaya', 'gozali', 'nft', '18', 'deh', 'selfie2', 'doang', 'kaya', 'foto', 'idola']",positif
+396,"['yaila', 'mentalnya', 'miskin']",negatif
+397,"['buset', 'ngemis']",negatif
+398,"['gilaaa', 'sihh', 'sdm', 'udahh', 'rendah', 'dibodoh', 'bodohin', 'memperkayaa', 'kaya', 'kaya', 'jatuhnyaa', 'ngemis', 'kasiaan', 'sungguh']",positif
+399,['berak'],negatif
+400,"['mba', 'meskipun', 'konteksnya', 'mungkin', 'candaan', 'saran', 'bikin', 'warga', 'bersusah', 'payah', 'marah']",positif
+401,['bangga'],negatif
+402,"['x', 'jadiin', 'mentri', 'keuangan']",negatif
+403,"['pura', 'pura', 'begonya', 'mah', 'beneran']",negatif
+404,"['cina', 'kosong', 'mikir', 'gak', 'rendah', 'nya', 'cuma-cuma', 'fantasi', 'doang', 'isinya', 'hhahahahahahaaga']",negatif
+405,"['perbaikan', 'bayar', 'harga', 'traktir', 'jilat', 'gabakal', 'mengirim', 'payudara']",negatif
+406,"['kosongnya', 'chindo']",negatif
+407,"['woi', 'donasi', 'jual', 'aja', 'sah', 'sah', 'aja', 'uang']",negatif
+408,['idih'],negatif
+409,"['tetep', 'gak', 'kebeli', 'segerbong', 'kereta', 'api']",negatif
+410,"['gak', 'disumbang', 'oii', 'traktir', 'jual', 'harga', 'barang', 'murah', 'sungguh', 'barangnya']",negatif
+411,"['sumpah', 'otak', 'gasih']",negatif
+412,"['nnti', 'ga', 'tercapai', 'target', 'nya', 'tambahin', 'lampu', 'merah', 'nnti', 'om', 'om', 'truk']",negatif
+413,"['kaya', 'mental', 'miskin']",negatif
+414,"['ga', 'malu']",negatif
+415,"['gatau', 'malu', 'doang', 'gak', 'seonggok', '.sampah.sampah', 'hiburan', 'cuma-cuma', 'ngang', 'ngong', 'ngang', 'ngong', 'nunjukin', 'payudara', 'benar']",negatif
+416,"['perbaikan', 'belikan', 'rumah']",negatif
+417,"['tambahin', 'pemasukan', 'ngemis', 'bolwh']",negatif
+418,"['kocag', 'luwh', 'kaya', 'doang', 'mental', 'attitude', 'miskin', 'ngemis']",negatif
+419,"['semangat', 'ratu']",positif
+420,"['ngemis', 'kerja', 'pontang', 'panting', 'kocak']",negatif
+421,"['perbaikan', 'membuka', 'donasi', 'deh', 'berkebutuhan']",positif
+422,"['meninggal', 'dunia', 'urat', 'malu']",negatif
+423,"['e', 'beneran', 'karya', 'kak']",negatif
+424,['benar'],negatif
+425,['anjirrr'],negatif
+426,"['ga', 'cemburu', 'lbh', 'kecewa']",negatif
+427,[],negatif
+428,"['bang', 'gak', 'memek', 'bang', 'deh', 'bang']",negatif
+429,"['ngemis', 'on', 'line', 'ga', 'malu', 'ditanya', 'perawan', 'ga', 'emosi', 'sangka']",negatif
+430,"['foto', 'seksi', 'ala2', 'doang', 'forum', 'lendir', 'berserakan', 'fotonya']",negatif
+431,"['bangga', 'bngt', 'habis', 'ngemis']",negatif
+432,"['minimal', 'pinter']",negatif
+433,"['pura', 'pura', 'ga', 'mengerti', 'mengerti', 'ngemis']",negatif
+434,"['cewek2', 'bodoh', 'kayak', 'gini', 'gausah', 'dikasih', 'panggung']",negatif
+435,"['keren', 'vy']",positif
+436,"['ai', 'kira', 'chindo', 'kaya', 'raya', 'ibu', 'sultan', 'konglomerat', 'trnyata', 'bli', 'mobil', 'ngemis', 'jual', 'foto', 'gk', 'cuih', 'pei', 'pei']",negatif
+437,"['malu', 'sungguh', 'ga', 'hasil', 'bo', 'gacukup', 'beli', 'mobil', 'bernyanyi', 'mama']",negatif
+438,"['bjir', 'bangga']",negatif
+439,"['kak', 'coba', 'bantu', 'lunasin', 'utang', 'negara']",negatif
+440,"['kayak', 'cewek', 'mengubah', 'miskin', 'jualan', 'foto', '2', 'kirain', 'keren', 'menjijikkan']",negatif
+441,"['terima', 'kasih', 'telanjang', 'mamaknya']",positif
+442,"['e', 'gblok', 'g', 'otak']",negatif
+443,"['engga', 'ahh', 'iseng', 'doang', 'ehh', 'nyumbang', 'tolol']",negatif
+444,"['fakir', 'nyumbang', 'kaya', 'inimah', 'kocak']",negatif
+445,"['kiat', 'ilangin', 'urat', 'malu', 'tua', 'kakak']",negatif
+446,"['coba', 'ganti', 'beli', 'barcelona']",negatif
+447,"['bilang', 'ga', 'beli', 'tuh', 'foto2']",negatif
+448,"['meninggal', 'dunia', 'logika', 'mental', 'ngemis', 'bilang', 'pinter']",negatif
+449,"['bnyak', 'bnget', 'disini', 'orang-orang', 'miskin', 'iri', 'hati', 'hahahaha']",negatif
+450,"['ngehate', 'sekelompok', 'miskin', 'iri', 'hati', 'menit']",negatif
+451,"['menang', 'dikatakan', 'memiliki', 'malu', 'milikmu', 'donation', 'kekurangan', 'uang', 'pendapatan', 'hasil', 'ngonten', 'collab', 'buka', 'trakteer']",negatif
+452,"['vior', 'settingan']",negatif
+453,"['kitabisa', 'dipake', 'operasi', 'tete']",negatif
+454,['kaya'],negatif
+455,"['hih', 'cintakuu']",positif
+456,[],negatif
+457,"['ga', 'capek', 'cantik']",positif
+458,"['coba', 'pengecoran', 'udara', 'bender', 'bodoh', 'pastinya', 'cocok']",positif
+459,"['pangeran', 'miripnya', 'jumpa', 'wooseok']",positif
+460,"['lucu', 'sungguh']",positif
+461,['cemburu'],negatif
+462,['lutunyaaaaaa'],positif
+463,"['ehh', 'luuccuuu', 'bgtt']",positif
+464,['kangen'],positif
+465,['cantik'],positif
+466,"['salahhh', 'tuh']",negatif
+467,"['kata2', 'cepat', 'sungguh', 'woyy', 'biarin', 'pikiran']",negatif
+468,"['gws', 'ko', 'kepin']",positif
+469,"['tenang', 'buruk', 'beda', 'mengapresiasi', 'konten', 'konten', 'pencipta']",positif
+470,"['bener', 'sungguh', 'kaya', 'kapal', 'selam', 'instagram', 'semangat', 'kakak']",positif
+471,"['kaya', 'mental', 'pengemis']",negatif
+472,"['ga', 'malu']",negatif
+473,['gila'],negatif
+474,"['kemaluan', 'kan', 'gak', 'dng']",negatif
+475,"['pppp', 'informasi', 'ngemis']",negatif
+476,"['besok', 'zakat', 'gak']",negatif
+477,"['titit', 'ngentot', 'ngentot', 'memek', 'dasar', 'tititl']",negatif
+478,"['berikutnya', 'bantu', 'lunasin', 'utang', 'negara']",negatif
+479,"['oke', 'gasi', 'anjing']",negatif
+480,['bodoh'],negatif
+481,"['akun', 'trakteernya', 'kan', 'tulisan', '18', 'lagian', 'membalas', 'melulu', 'kan', 'jawab', 'deh', 'males', 'bahas', 'bahas', 'melulu']",negatif
+482,"['awowkowkwok', 'hasil', 'ngemis', 'on', 'line']",negatif
+483,"['hha', 'foto', '18', 'darimana', 'kocak', 'lagian', 'ribet', 'nurusin', 'dr', 'kemaren2', 'bersihin', 'tuh', 'hati', 'kotor', 'dendam', 'kayak', 'rugiin']",negatif
+484,"['yaelah', 'itukan', 'platform', 'menjual', 'kocak', 'jualan', 'jual', 'eksklusif', 'selfie', 'konten', 'konten', 'eksklusif', 'bayar', 'kayak', 'langganan', 'berbayar', 'g']",negatif
+485,"['ha', 'ha', 'pahlawan', 'kesiangan', 'bang', 'bego']",negatif
+486,"['ga', 'ngemis', 'kak', 'ngejual', 'selfie', 'eksklusif', 'nya', 'lagian', 'salah', 'kaya', 'gabakalan', 'beli']",negatif
+487,['ngemis'],negatif
+488,"['elah', 'k', 'pop', 'kpopan', 'memeperkaya', 'kaya', 'lagian', 'uang', 'salahnya', 'uang', 'paksaan']",negatif
+489,"['gabakal', 'donate', 'pagar', 'terik', 'terik', 'doang', 'makan', 'susah', 'gmn', 'donate', 'kurangdibawah', 'gabakal', 'memperbarui', 'beginian']",negatif
+490,"['udah', 'perbaikan', 'donasi']",negatif
+491,"['gak', 'bodoh', 'cuman', 'aneh', 'laper', 'bantuan', 'coba', 'donasi']",negatif
+492,"['cerdas', 'ko', 'ga', 'terpikirkan']",positif
+493,"['semoga', 'ga', 'rungkad']",negatif
+494,"['pantes', 'dihujat', 'bangga', 'ngemis', 'adik', 'adik']",negatif
+495,"['ngajarin', 'mental', 'ngemis', 'indo', 'indo', 'sdm', 'maju', 'konten', 'konten', 'pencipta', 'contoh', 'benar', 'risiko', 'konten', 'konten', 'pencipta', 'klo', 'ga', 'tanggungan', 'ga', 'keluarga']",negatif
+496,"['benar', 'nyumbang']",negatif
+497,"['fakir', 'nyumbang', 'kaya', 'inimah', 'kocak']",negatif
+498,"['gatau', 'malu', 'doang', 'gak', 'seonggok', '.sampah.sampah', 'hiburan', 'cuma-cuma', 'ngang', 'ngong', 'ngang', 'ngong', 'nunjukin', 'payudara', 'benar']",negatif
+499,"['cantik', 'pinter', 'cerdass', 'inii', 'cantik', 'pinterr', 'bikin', 'bikin', 'sekolahan', 'gratis', 'plosok', 'daerah']",positif
